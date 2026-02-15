@@ -42,8 +42,9 @@ Vtube Studio で利用可能なLive2Dモデルです。
 ## クレジット例
 
     モデル製作: Log-Cig
-    https://github.com/Log-Cig/Live2D_Model_TsumuguAsagiri
+    https://github.com/Log-Cig
     https://www.youtube.com/@Log-Cig
+    https://x.com/Log_Cig
 
 
 ## ⚖️ 免責事項 (Disclaimer)
